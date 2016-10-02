@@ -1,3 +1,27 @@
 body{
-	background: yellow;
+	background: #486748;
+}
+.titulo{
+	color:#16B918;
+	font-size: 40px;
+	text-align: center;
+}
+.parrafo1{
+	border: 1px solid #ccc;
+	padding: 20px;
+	background: #74C6B7;
+}
+.parrafo2{
+	border: 1px solid #ccc;
+	padding: 20px;
+	background: #65A599;
+}
+.subtitulo{
+	background-color: #28B7AC;
+}
+.button{
+	background-color:#0D0DF1;
+}
+.cuadrado{
+	text-align: center;
 }
